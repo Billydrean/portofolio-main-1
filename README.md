@@ -43,5 +43,5 @@ Build portfolio with pure Html, CSS, JavaScript
 
 ## Authors
 
-- [@Callmerev95](https://github.com/Callmerev95)
+- [@Billydrean](https://github.com/Billydrean)
 
